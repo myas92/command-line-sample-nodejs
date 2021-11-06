@@ -1,0 +1,31 @@
+{
+  "name": "command-line-sample-nodejs",
+  "version": "0.0.0",
+  "description": "Command line spamole nodejs",
+  "main": "\\",
+  "bin": {
+    "sample-cli": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myas92/command-line-sample-nodejs.git"
+  },
+  "keywords": [
+    "command-line",
+    "cli",
+    "cli-nodejs",
+    "sample-cli"
+  ],
+  "author": "Yaser Ahmadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myas92/command-line-sample-nodejs/issues"
+  },
+  "homepage": "https://github.com/myas92/command-line-sample-nodejs#readme",
+  "dependencies": {
+    "yargs": "^17.2.1"
+  }
+}
